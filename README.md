@@ -4,6 +4,7 @@ For use with plugin: https://github.com/bmgjet/SkinAndSpay<br><br>
 https://www.youtube.com/watch?v=4gfnMVj_JnI
 <br><br>
 # Instructions
+You will need to have steam running and logged into an account that owns rust.
 <br>Download steam_api.dll, SprayDecalCreator.exe and Facepunch.Steamworks.Win32.dll to the same folder.<br>
 Run SprayDecalCreator.exe<br>
 <br>How to create a new spray:<br>
