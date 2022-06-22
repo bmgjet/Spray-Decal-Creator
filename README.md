@@ -1,3 +1,6 @@
+Just to iterate, None of my plugins or parts of there code are to be used in other paid services/plugins.<br>
+Please report it if you come across any that are in breach of this.<br><br>
+
 # Spray-Decal-Creator
 Tool to easily create spray decals in rust.<br>
 For use with plugin: https://github.com/bmgjet/SkinAndSpay<br><br>
