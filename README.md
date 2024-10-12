@@ -1,6 +1,9 @@
 Just to iterate, None of my plugins or parts of there code are to be used in other paid services/plugins.<br>
 Please report it if you come across any that are in breach of this.<br><br>
-
+<br>
+This Program Has Been Replace With<br>
+https://github.com/bmgjet/Spray_Wallpaper_Creator/
+<br>
 # Spray-Decal-Creator
 Tool to easily create spray decals in rust.<br>
 For use with plugin: https://github.com/bmgjet/SkinAndSpay<br><br>
